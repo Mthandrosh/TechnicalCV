@@ -16,7 +16,7 @@ namespace TechnicalCV
 
         protected void LinkButton1_Click(object sender, EventArgs e)
         {
-            Response.Redirect("HomePage.aspx");
+           Response.Redirect("HomePage.aspx");
         }
     }
 }
